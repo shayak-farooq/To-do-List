@@ -1,0 +1,30 @@
+ body {
+            font-family: Arial;
+            padding: 30px;
+        }
+
+        input[type="text"] {
+            padding: 8px;
+            width: 200px;
+        }
+
+        button {
+            padding: 8px 12px;
+            margin-left: 10px;
+        }
+
+        ul {
+            margin-top: 20px;
+            list-style: none;
+            padding-left: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        .task {
+            display: flex;
+            justify-content: space-between;
+            width: 300px;
+        }
